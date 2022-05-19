@@ -5,13 +5,13 @@
 }
 body{
     font-family: "Open Sans", sans-serif !important;
-    position: relative !important;
 }
 @media screen and (max-width: 768px) {
     [data-aos-delay] {
       transition-delay: 0 !important;
     }
-  }
+}
+
 .navbar .getstarted, .navbar .getstarted:focus {
     background: #2487ce;
     padding: 6px 20px;
@@ -98,6 +98,7 @@ a{
 
 #count-section{
     background: #f8fbfe;
+
 }
 .num{
     font-size: 48px;
